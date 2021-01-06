@@ -1,0 +1,17 @@
+h2.intro {
+color: blue;
+padding: 10px;
+font-size: 30px;
+font-style: italic;
+}
+
+p.intro {
+  color: blue;
+  padding: 10px;
+  font-size: 30px;
+  font-style: italic;
+}
+
+img.intro {
+padding: 10px;
+}
